@@ -1,7 +1,7 @@
 🚀 CluserAI
 
 <p align="center">
-  <img src="assets/cluserai-logo.png" alt="CluserAI Official Logo" width="220">
+  <img src="cluserai-logo.png" alt="CluserAI Official Logo" width="220">
 </p><h3 align="center">Artificial Intelligence. New Possibilities.</h3><p align="center">
   Building a more intelligent, accessible, and connected digital future.
 </p><p align="center">
@@ -333,7 +333,7 @@ Thank you for being part of the journey.
 ---
 
 <p align="center">
-  <img src="assets/cluserai-logo.png" alt="CluserAI Logo" width="120">
+  <img src="cluserai-logo.png" alt="CluserAI Logo" width="120">
 </p><h2 align="center">CluserAI</h2><p align="center">
   <strong>Explore. Innovate. Evolve.</strong>
 </p><p align="center">
